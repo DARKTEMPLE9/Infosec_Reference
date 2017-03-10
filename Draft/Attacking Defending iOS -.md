@@ -1,32 +1,20 @@
 ## Attacking & Defending iOS
 
-[Link Title](#anchor-name)
+#### TOC
+* [Cull](#cull)
+* [Hardening Guides](#harden)
+* [Techniques](#tech)
+* [Training & Tutorials](#train)
+* [Security Testing Methodologies](#test)
+* [General Research Papers](#research)
+* [Reverse Engineering](#re)
+* [Jailbreaking](#jail)
 
-<a name="anchor-name"></a>
 
 [Hacking Your Way Up The Mobile Stack](http://vimeo.com/51270090)
 
 
 
-#### TOC
-[Cull](#cull)
-[Hardening Guides](#harden)
-[Techniques](#tech)
-[Training & Tutorials](#train)
-[Security Testing Methodologies](#test)
-[General Research Papers](#research)
-[Reverse Engineering](#re)
-[Jailbreaking](#jail)
-
-
-### <a name="cull">Cull</a>
-
-| Title     | Link |
-| -------- | ------------------------ |
-| **iOS 678 Security - A Study in Fail** | https://www.syscan.org/index.php/download/get/bec31d45168aa331fc01f84451e11186/SyScan15%20Stefan%20Esser%20-%20iOS%20678%20Security%20-%20A%20Study%20in%20Fail.pdf
-| **Jailbreak Stories - Cyril Cattiaux(pod2g) - WWJC 2014** | https://www.youtube.com/watch?v=OBFLTb-AY38
-| **Mobile self-defense - Karsten Nohl** | https://www.youtube.com/watch?v=GeCkO0fWWqc
-| **Pentesting iOS Applications - Pentester Academy - Paid Course** - This course focuses on the iOS platform and application security and is ideal for pentesters, researchers and the casual iOS enthusiast who would like to dive deep and understand how to analyze and systematically audit applications on this platform using a variety of bleeding edge tools and techniques. | http://www.pentesteracademy.com/course?id=2
 
 
 ### <a name="harden">List of Hardening Guides for iOS</a>
@@ -108,3 +96,15 @@
 | Title     | Link |
 | -------- | ------------------------ |
 | **imas** - Defense for your iOS app - for developers | https://project-imas.github.io/
+
+
+
+
+### <a name="cull">Cull</a>
+
+| Title     | Link |
+| -------- | ------------------------ |
+| **iOS 678 Security - A Study in Fail** | https://www.syscan.org/index.php/download/get/bec31d45168aa331fc01f84451e11186/SyScan15%20Stefan%20Esser%20-%20iOS%20678%20Security%20-%20A%20Study%20in%20Fail.pdf
+| **Jailbreak Stories - Cyril Cattiaux(pod2g) - WWJC 2014** | https://www.youtube.com/watch?v=OBFLTb-AY38
+| **Mobile self-defense - Karsten Nohl** | https://www.youtube.com/watch?v=GeCkO0fWWqc
+| **Pentesting iOS Applications - Pentester Academy - Paid Course** - This course focuses on the iOS platform and application security and is ideal for pentesters, researchers and the casual iOS enthusiast who would like to dive deep and understand how to analyze and systematically audit applications on this platform using a variety of bleeding edge tools and techniques. | http://www.pentesteracademy.com/course?id=2
